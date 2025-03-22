@@ -1,0 +1,259 @@
+2025-03-22 22:08:16, INFO, Starting scraper for https://books.toscrape.com/catalogue/ with limit of 2 pages 
+2025-03-22 22:08:16, INFO, Scraping page 1/2: page-1.html 
+2025-03-22 22:08:17, DEBUG, Found 20 books on page 1 
+2025-03-22 22:08:17, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+2025-03-22 22:08:17, DEBUG, Successfully retrieved page for a-light-in-the-attic_1000/index.html 
+2025-03-22 22:08:17, INFO, Starting to download image: ../../media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+2025-03-22 22:08:17, INFO, Creating directory: book_images 
+2025-03-22 22:08:17, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+2025-03-22 22:08:18, INFO, Successfully downloaded image to: book_images/fe72f0532301ec28892ae79a629a293c.jpg 
+2025-03-22 22:08:18, INFO, Successfully scraped book: "A Light in the Attic" 
+2025-03-22 22:08:18, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+2025-03-22 22:08:19, DEBUG, Successfully retrieved page for tipping-the-velvet_999/index.html 
+2025-03-22 22:08:19, INFO, Starting to download image: ../../media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+2025-03-22 22:08:19, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+2025-03-22 22:08:19, INFO, Successfully downloaded image to: book_images/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+2025-03-22 22:08:19, INFO, Successfully scraped book: "Tipping the Velvet" 
+2025-03-22 22:08:19, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/soumission_998/index.html 
+2025-03-22 22:08:20, DEBUG, Successfully retrieved page for soumission_998/index.html 
+2025-03-22 22:08:20, INFO, Starting to download image: ../../media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+2025-03-22 22:08:20, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+2025-03-22 22:08:21, INFO, Successfully downloaded image to: book_images/eecfe998905e455df12064dba399c075.jpg 
+2025-03-22 22:08:21, INFO, Successfully scraped book: "Soumission" 
+2025-03-22 22:08:21, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+2025-03-22 22:08:21, DEBUG, Successfully retrieved page for sharp-objects_997/index.html 
+2025-03-22 22:08:21, INFO, Starting to download image: ../../media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+2025-03-22 22:08:21, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+2025-03-22 22:08:22, INFO, Successfully downloaded image to: book_images/c05972805aa7201171b8fc71a5b00292.jpg 
+2025-03-22 22:08:22, INFO, Successfully scraped book: "Sharp Objects" 
+2025-03-22 22:08:22, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+2025-03-22 22:08:23, DEBUG, Successfully retrieved page for sapiens-a-brief-history-of-humankind_996/index.html 
+2025-03-22 22:08:23, INFO, Starting to download image: ../../media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+2025-03-22 22:08:23, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+2025-03-22 22:08:23, INFO, Successfully downloaded image to: book_images/ce5f052c65cc963cf4422be096e915c9.jpg 
+2025-03-22 22:08:23, INFO, Successfully scraped book: "Sapiens: A Brief History of Humankind" 
+2025-03-22 22:08:23, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+2025-03-22 22:08:24, DEBUG, Successfully retrieved page for the-requiem-red_995/index.html 
+2025-03-22 22:08:24, INFO, Starting to download image: ../../media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+2025-03-22 22:08:24, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+2025-03-22 22:08:25, INFO, Successfully downloaded image to: book_images/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+2025-03-22 22:08:25, INFO, Successfully scraped book: "The Requiem Red" 
+2025-03-22 22:08:25, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+2025-03-22 22:08:26, DEBUG, Successfully retrieved page for the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+2025-03-22 22:08:26, INFO, Starting to download image: ../../media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+2025-03-22 22:08:26, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+2025-03-22 22:08:28, INFO, Successfully downloaded image to: book_images/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+2025-03-22 22:08:28, INFO, Successfully scraped book: "The Dirty Little Secrets of Getting Your Dream Job" 
+2025-03-22 22:08:28, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+2025-03-22 22:08:28, DEBUG, Successfully retrieved page for the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+2025-03-22 22:08:28, INFO, Starting to download image: ../../media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+2025-03-22 22:08:28, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+2025-03-22 22:08:29, INFO, Successfully downloaded image to: book_images/9736132a43b8e6e3989932218ef309ed.jpg 
+2025-03-22 22:08:29, INFO, Successfully scraped book: "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull" 
+2025-03-22 22:08:29, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+2025-03-22 22:08:30, DEBUG, Successfully retrieved page for the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+2025-03-22 22:08:30, INFO, Starting to download image: ../../media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+2025-03-22 22:08:30, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+2025-03-22 22:08:30, INFO, Successfully downloaded image to: book_images/d12d26739b5369a6b5b3024e4d08f907.jpg 
+2025-03-22 22:08:30, INFO, Successfully scraped book: "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics" 
+2025-03-22 22:08:30, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+2025-03-22 22:08:31, DEBUG, Successfully retrieved page for the-black-maria_991/index.html 
+2025-03-22 22:08:31, INFO, Starting to download image: ../../media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+2025-03-22 22:08:31, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+2025-03-22 22:08:32, INFO, Successfully downloaded image to: book_images/d17a3e313e52e1be5651719e4fba1d16.jpg 
+2025-03-22 22:08:32, INFO, Successfully scraped book: "The Black Maria" 
+2025-03-22 22:08:32, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+2025-03-22 22:08:33, DEBUG, Successfully retrieved page for starving-hearts-triangular-trade-trilogy-1_990/index.html 
+2025-03-22 22:08:33, INFO, Starting to download image: ../../media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+2025-03-22 22:08:33, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+2025-03-22 22:08:33, INFO, Successfully downloaded image to: book_images/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+2025-03-22 22:08:33, INFO, Successfully scraped book: "Starving Hearts (Triangular Trade Trilogy, #1)" 
+2025-03-22 22:08:33, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+2025-03-22 22:08:34, DEBUG, Successfully retrieved page for shakespeares-sonnets_989/index.html 
+2025-03-22 22:08:34, INFO, Starting to download image: ../../media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+2025-03-22 22:08:34, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+2025-03-22 22:08:35, INFO, Successfully downloaded image to: book_images/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+2025-03-22 22:08:35, INFO, Successfully scraped book: "Shakespeare's Sonnets" 
+2025-03-22 22:08:35, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/set-me-free_988/index.html 
+2025-03-22 22:08:35, DEBUG, Successfully retrieved page for set-me-free_988/index.html 
+2025-03-22 22:08:35, INFO, Starting to download image: ../../media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+2025-03-22 22:08:35, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+2025-03-22 22:08:36, INFO, Successfully downloaded image to: book_images/b8e91bd2fc74c3954118999238abb4b8.jpg 
+2025-03-22 22:08:36, INFO, Successfully scraped book: "Set Me Free" 
+2025-03-22 22:08:36, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+2025-03-22 22:08:37, DEBUG, Successfully retrieved page for scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+2025-03-22 22:08:37, INFO, Starting to download image: ../../media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+2025-03-22 22:08:37, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+2025-03-22 22:08:38, INFO, Successfully downloaded image to: book_images/97275841c81e66d53bf9313cba06f23e.jpg 
+2025-03-22 22:08:38, INFO, Successfully scraped book: "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)" 
+2025-03-22 22:08:38, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+2025-03-22 22:08:38, DEBUG, Successfully retrieved page for rip-it-up-and-start-again_986/index.html 
+2025-03-22 22:08:39, INFO, Starting to download image: ../../media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+2025-03-22 22:08:39, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+2025-03-22 22:08:39, INFO, Successfully downloaded image to: book_images/817f5089c0e6e62738dce2931e7323d3.jpg 
+2025-03-22 22:08:39, INFO, Successfully scraped book: "Rip it Up and Start Again" 
+2025-03-22 22:08:39, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+2025-03-22 22:08:40, DEBUG, Successfully retrieved page for our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+2025-03-22 22:08:40, INFO, Starting to download image: ../../media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+2025-03-22 22:08:40, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+2025-03-22 22:08:41, INFO, Successfully downloaded image to: book_images/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+2025-03-22 22:08:41, INFO, Successfully scraped book: "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991" 
+2025-03-22 22:08:41, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/olio_984/index.html 
+2025-03-22 22:08:41, DEBUG, Successfully retrieved page for olio_984/index.html 
+2025-03-22 22:08:41, INFO, Starting to download image: ../../media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+2025-03-22 22:08:41, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+2025-03-22 22:08:42, INFO, Successfully downloaded image to: book_images/b10eabab1e1c811a6d47969904fd5755.jpg 
+2025-03-22 22:08:42, INFO, Successfully scraped book: "Olio" 
+2025-03-22 22:08:42, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+2025-03-22 22:08:43, DEBUG, Successfully retrieved page for mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+2025-03-22 22:08:43, INFO, Starting to download image: ../../media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+2025-03-22 22:08:43, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+2025-03-22 22:08:44, INFO, Successfully downloaded image to: book_images/e81f850db9b9622c65619c9f15748de7.jpg 
+2025-03-22 22:08:44, INFO, Successfully scraped book: "Mesaerion: The Best Science Fiction Stories 1800-1849" 
+2025-03-22 22:08:44, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+2025-03-22 22:08:44, DEBUG, Successfully retrieved page for libertarianism-for-beginners_982/index.html 
+2025-03-22 22:08:44, INFO, Starting to download image: ../../media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+2025-03-22 22:08:44, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+2025-03-22 22:08:45, INFO, Successfully downloaded image to: book_images/91a46253e165d144ef5938f2d456b88f.jpg 
+2025-03-22 22:08:45, INFO, Successfully scraped book: "Libertarianism for Beginners" 
+2025-03-22 22:08:45, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+2025-03-22 22:08:46, DEBUG, Successfully retrieved page for its-only-the-himalayas_981/index.html 
+2025-03-22 22:08:46, INFO, Starting to download image: ../../media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+2025-03-22 22:08:46, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+2025-03-22 22:08:47, INFO, Successfully downloaded image to: book_images/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+2025-03-22 22:08:47, INFO, Successfully scraped book: "It's Only the Himalayas" 
+2025-03-22 22:08:47, INFO, Moving to next page: page-2.html 
+2025-03-22 22:08:47, INFO, Scraping page 2/2: page-2.html 
+2025-03-22 22:08:48, DEBUG, Found 20 books on page 2 
+2025-03-22 22:08:48, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/in-her-wake_980/index.html 
+2025-03-22 22:08:48, DEBUG, Successfully retrieved page for in-her-wake_980/index.html 
+2025-03-22 22:08:48, INFO, Starting to download image: ../../media/cache/27/92/2792ef951651ff1eae40a410cac41e0f.jpg 
+2025-03-22 22:08:48, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/27/92/2792ef951651ff1eae40a410cac41e0f.jpg 
+2025-03-22 22:08:49, INFO, Successfully downloaded image to: book_images/2792ef951651ff1eae40a410cac41e0f.jpg 
+2025-03-22 22:08:49, INFO, Successfully scraped book: "In Her Wake" 
+2025-03-22 22:08:49, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/how-music-works_979/index.html 
+2025-03-22 22:08:50, DEBUG, Successfully retrieved page for how-music-works_979/index.html 
+2025-03-22 22:08:50, INFO, Starting to download image: ../../media/cache/1d/40/1d4087ff0a63f09fae9cd8433d21c2c4.jpg 
+2025-03-22 22:08:50, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/1d/40/1d4087ff0a63f09fae9cd8433d21c2c4.jpg 
+2025-03-22 22:08:51, INFO, Successfully downloaded image to: book_images/1d4087ff0a63f09fae9cd8433d21c2c4.jpg 
+2025-03-22 22:08:51, INFO, Successfully scraped book: "How Music Works" 
+2025-03-22 22:08:51, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html 
+2025-03-22 22:08:51, DEBUG, Successfully retrieved page for foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html 
+2025-03-22 22:08:51, INFO, Starting to download image: ../../media/cache/9f/58/9f58d3ff6d58589eaf325b1a33c303a0.jpg 
+2025-03-22 22:08:51, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/9f/58/9f58d3ff6d58589eaf325b1a33c303a0.jpg 
+2025-03-22 22:08:52, INFO, Successfully downloaded image to: book_images/9f58d3ff6d58589eaf325b1a33c303a0.jpg 
+2025-03-22 22:08:52, INFO, Successfully scraped book: "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More" 
+2025-03-22 22:08:52, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html 
+2025-03-22 22:08:53, DEBUG, Successfully retrieved page for chase-me-paris-nights-2_977/index.html 
+2025-03-22 22:08:53, INFO, Starting to download image: ../../media/cache/6c/84/6c84fcf7a53b02b6e763de7272934842.jpg 
+2025-03-22 22:08:53, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/6c/84/6c84fcf7a53b02b6e763de7272934842.jpg 
+2025-03-22 22:08:54, INFO, Successfully downloaded image to: book_images/6c84fcf7a53b02b6e763de7272934842.jpg 
+2025-03-22 22:08:54, INFO, Successfully scraped book: "Chase Me (Paris Nights #2)" 
+2025-03-22 22:08:54, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/black-dust_976/index.html 
+2025-03-22 22:08:54, DEBUG, Successfully retrieved page for black-dust_976/index.html 
+2025-03-22 22:08:54, INFO, Starting to download image: ../../media/cache/a4/0a/a40af95beab828af1a4757ad1ee17da3.jpg 
+2025-03-22 22:08:54, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/a4/0a/a40af95beab828af1a4757ad1ee17da3.jpg 
+2025-03-22 22:08:55, INFO, Successfully downloaded image to: book_images/a40af95beab828af1a4757ad1ee17da3.jpg 
+2025-03-22 22:08:55, INFO, Successfully scraped book: "Black Dust" 
+2025-03-22 22:08:55, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html 
+2025-03-22 22:08:56, DEBUG, Successfully retrieved page for birdsong-a-story-in-pictures_975/index.html 
+2025-03-22 22:08:56, INFO, Starting to download image: ../../media/cache/af/2f/af2fe2419ea136f2cd567aa92082c3ae.jpg 
+2025-03-22 22:08:56, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/af/2f/af2fe2419ea136f2cd567aa92082c3ae.jpg 
+2025-03-22 22:08:56, INFO, Successfully downloaded image to: book_images/af2fe2419ea136f2cd567aa92082c3ae.jpg 
+2025-03-22 22:08:56, INFO, Successfully scraped book: "Birdsong: A Story in Pictures" 
+2025-03-22 22:08:56, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html 
+2025-03-22 22:08:57, DEBUG, Successfully retrieved page for americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html 
+2025-03-22 22:08:57, INFO, Starting to download image: ../../media/cache/a3/2a/a32ab3b8c024c6c2b274a86b185e7585.jpg 
+2025-03-22 22:08:57, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/a3/2a/a32ab3b8c024c6c2b274a86b185e7585.jpg 
+2025-03-22 22:08:58, INFO, Successfully downloaded image to: book_images/a32ab3b8c024c6c2b274a86b185e7585.jpg 
+2025-03-22 22:08:58, INFO, Successfully scraped book: "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana" 
+2025-03-22 22:08:58, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html 
+2025-03-22 22:08:59, DEBUG, Successfully retrieved page for aladdin-and-his-wonderful-lamp_973/index.html 
+2025-03-22 22:08:59, INFO, Starting to download image: ../../media/cache/a8/3c/a83c460fab82f35a37c0846729485547.jpg 
+2025-03-22 22:08:59, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/a8/3c/a83c460fab82f35a37c0846729485547.jpg 
+2025-03-22 22:09:01, INFO, Successfully downloaded image to: book_images/a83c460fab82f35a37c0846729485547.jpg 
+2025-03-22 22:09:01, INFO, Successfully scraped book: "Aladdin and His Wonderful Lamp" 
+2025-03-22 22:09:01, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html 
+2025-03-22 22:09:01, DEBUG, Successfully retrieved page for worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html 
+2025-03-22 22:09:01, INFO, Starting to download image: ../../media/cache/7b/d9/7bd93db091d736d0c6ff9d578e3ba3d7.jpg 
+2025-03-22 22:09:01, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/7b/d9/7bd93db091d736d0c6ff9d578e3ba3d7.jpg 
+2025-03-22 22:09:02, INFO, Successfully downloaded image to: book_images/7bd93db091d736d0c6ff9d578e3ba3d7.jpg 
+2025-03-22 22:09:02, INFO, Successfully scraped book: "Worlds Elsewhere: Journeys Around Shakespeareâs Globe" 
+2025-03-22 22:09:02, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/wall-and-piece_971/index.html 
+2025-03-22 22:09:03, DEBUG, Successfully retrieved page for wall-and-piece_971/index.html 
+2025-03-22 22:09:03, INFO, Starting to download image: ../../media/cache/df/34/df346322ddfdd3b4da0e34cad17f49dc.jpg 
+2025-03-22 22:09:03, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/df/34/df346322ddfdd3b4da0e34cad17f49dc.jpg 
+2025-03-22 22:09:04, INFO, Successfully downloaded image to: book_images/df346322ddfdd3b4da0e34cad17f49dc.jpg 
+2025-03-22 22:09:04, INFO, Successfully scraped book: "Wall and Piece" 
+2025-03-22 22:09:04, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html 
+2025-03-22 22:09:04, DEBUG, Successfully retrieved page for the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html 
+2025-03-22 22:09:04, INFO, Starting to download image: ../../media/cache/2b/1b/2b1bfecae9d512cb6ee943ccf786216f.jpg 
+2025-03-22 22:09:04, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/2b/1b/2b1bfecae9d512cb6ee943ccf786216f.jpg 
+2025-03-22 22:09:05, INFO, Successfully downloaded image to: book_images/2b1bfecae9d512cb6ee943ccf786216f.jpg 
+2025-03-22 22:09:05, INFO, Successfully scraped book: "The Four Agreements: A Practical Guide to Personal Freedom" 
+2025-03-22 22:09:05, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html 
+2025-03-22 22:09:06, DEBUG, Successfully retrieved page for the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html 
+2025-03-22 22:09:06, INFO, Starting to download image: ../../media/cache/7c/10/7c10101fe1759c5a17ba57e4bef9e764.jpg 
+2025-03-22 22:09:06, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/7c/10/7c10101fe1759c5a17ba57e4bef9e764.jpg 
+2025-03-22 22:09:07, INFO, Successfully downloaded image to: book_images/7c10101fe1759c5a17ba57e4bef9e764.jpg 
+2025-03-22 22:09:07, INFO, Successfully scraped book: "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate" 
+2025-03-22 22:09:07, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html 
+2025-03-22 22:09:07, DEBUG, Successfully retrieved page for the-elephant-tree_968/index.html 
+2025-03-22 22:09:07, INFO, Starting to download image: ../../media/cache/4b/80/4b80a3d9148e224ed4d6cd4d33f43728.jpg 
+2025-03-22 22:09:07, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/4b/80/4b80a3d9148e224ed4d6cd4d33f43728.jpg 
+2025-03-22 22:09:08, INFO, Successfully downloaded image to: book_images/4b80a3d9148e224ed4d6cd4d33f43728.jpg 
+2025-03-22 22:09:08, INFO, Successfully scraped book: "The Elephant Tree" 
+2025-03-22 22:09:08, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html 
+2025-03-22 22:09:09, DEBUG, Successfully retrieved page for the-bear-and-the-piano_967/index.html 
+2025-03-22 22:09:09, INFO, Starting to download image: ../../media/cache/d0/87/d0876dcd1a6530a4cb54903aad7a3e28.jpg 
+2025-03-22 22:09:09, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/d0/87/d0876dcd1a6530a4cb54903aad7a3e28.jpg 
+2025-03-22 22:09:10, INFO, Successfully downloaded image to: book_images/d0876dcd1a6530a4cb54903aad7a3e28.jpg 
+2025-03-22 22:09:10, INFO, Successfully scraped book: "The Bear and the Piano" 
+2025-03-22 22:09:10, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/sophies-world_966/index.html 
+2025-03-22 22:09:10, DEBUG, Successfully retrieved page for sophies-world_966/index.html 
+2025-03-22 22:09:10, INFO, Starting to download image: ../../media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg 
+2025-03-22 22:09:10, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg 
+2025-03-22 22:09:11, INFO, Successfully downloaded image to: book_images/d73914232130fdf90d66f02fd9798f2b.jpg 
+2025-03-22 22:09:11, INFO, Successfully scraped book: "Sophie's World" 
+2025-03-22 22:09:11, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/penny-maybe_965/index.html 
+2025-03-22 22:09:12, DEBUG, Successfully retrieved page for penny-maybe_965/index.html 
+2025-03-22 22:09:12, INFO, Starting to download image: ../../media/cache/b1/4b/b14be641ab97a330891455a769d52fd3.jpg 
+2025-03-22 22:09:12, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/b1/4b/b14be641ab97a330891455a769d52fd3.jpg 
+2025-03-22 22:09:13, INFO, Successfully downloaded image to: book_images/b14be641ab97a330891455a769d52fd3.jpg 
+2025-03-22 22:09:13, INFO, Successfully scraped book: "Penny Maybe" 
+2025-03-22 22:09:13, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html 
+2025-03-22 22:09:13, DEBUG, Successfully retrieved page for maude-1883-1993she-grew-up-with-the-country_964/index.html 
+2025-03-22 22:09:13, INFO, Starting to download image: ../../media/cache/65/bf/65bfa3acc93b0e558a1c3de1b1164742.jpg 
+2025-03-22 22:09:13, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/65/bf/65bfa3acc93b0e558a1c3de1b1164742.jpg 
+2025-03-22 22:09:14, INFO, Successfully downloaded image to: book_images/65bfa3acc93b0e558a1c3de1b1164742.jpg 
+2025-03-22 22:09:14, INFO, Successfully scraped book: "Maude (1883-1993):She Grew Up with the country" 
+2025-03-22 22:09:14, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html 
+2025-03-22 22:09:15, DEBUG, Successfully retrieved page for in-a-dark-dark-wood_963/index.html 
+2025-03-22 22:09:15, INFO, Starting to download image: ../../media/cache/95/84/95840dfd67c020067c99d70451147e20.jpg 
+2025-03-22 22:09:15, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/95/84/95840dfd67c020067c99d70451147e20.jpg 
+2025-03-22 22:09:16, INFO, Successfully downloaded image to: book_images/95840dfd67c020067c99d70451147e20.jpg 
+2025-03-22 22:09:16, INFO, Successfully scraped book: "In a Dark, Dark Wood" 
+2025-03-22 22:09:16, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html 
+2025-03-22 22:09:16, DEBUG, Successfully retrieved page for behind-closed-doors_962/index.html 
+2025-03-22 22:09:16, INFO, Starting to download image: ../../media/cache/a5/85/a58571db229f2e8f75ea38861eca7f39.jpg 
+2025-03-22 22:09:16, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/a5/85/a58571db229f2e8f75ea38861eca7f39.jpg 
+2025-03-22 22:09:17, INFO, Successfully downloaded image to: book_images/a58571db229f2e8f75ea38861eca7f39.jpg 
+2025-03-22 22:09:17, INFO, Successfully scraped book: "Behind Closed Doors" 
+2025-03-22 22:09:17, INFO, Starting to scrape book at https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html 
+2025-03-22 22:09:18, DEBUG, Successfully retrieved page for you-cant-bury-them-all-poems_961/index.html 
+2025-03-22 22:09:18, INFO, Starting to download image: ../../media/cache/b7/44/b7440aa88046b0bf8cba50d59295518e.jpg 
+2025-03-22 22:09:18, DEBUG, Downloading image from: https://books.toscrape.com/media/cache/b7/44/b7440aa88046b0bf8cba50d59295518e.jpg 
+2025-03-22 22:09:18, INFO, Successfully downloaded image to: book_images/b7440aa88046b0bf8cba50d59295518e.jpg 
+2025-03-22 22:09:18, INFO, Successfully scraped book: "You can't bury them all: Poems" 
+2025-03-22 22:09:18, INFO, Moving to next page: page-3.html 
+2025-03-22 22:09:18, INFO, Scraping completed. Collected 40 books. 
+2025-03-22 22:09:18, INFO, Creating JSON and CSV files 
+2025-03-22 22:09:18, INFO, Starting JSON creation for 40 books in directory 'booksJson' 
+2025-03-22 22:09:18, INFO, Creating directory 'booksJson' 
+2025-03-22 22:09:18, DEBUG, Writing JSON data to booksJson/data.json 
+2025-03-22 22:09:18, INFO, Successfully created JSON with 40 books at booksJson/data.json 
+2025-03-22 22:09:18, INFO, Starting CSV creation for 40 books in directory 'booksCsv' 
+2025-03-22 22:09:18, INFO, Creating directory 'booksCsv' 
+2025-03-22 22:09:18, DEBUG, Writing CSV data to booksCsv/data.csv 
+2025-03-22 22:09:18, INFO, Successfully created CSV with 40 books at booksCsv/data.csv 
+2025-03-22 22:09:18, INFO, Successfully saved data to JSON and CSV files 
